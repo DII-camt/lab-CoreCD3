@@ -26,3 +26,4 @@ const json_menu = [{
 ];
 console.log(json_menu[0].menu[0].name);
 console.log(json_menu[1].menu[0].menu[1].name);
+console.log(json_menu[2].name);
